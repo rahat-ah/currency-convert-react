@@ -52,8 +52,7 @@ function App() {
                 type="button" 
                 className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-blue-500 px-3 py-1 rounded-lg text-white capitalize cursor-pointer"
                 onClick={handleSwap}
-              >
-                swap
+                >swap
               </button>
               <InputField
                 label={'To'}
