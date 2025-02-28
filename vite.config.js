@@ -8,4 +8,5 @@ export default defineConfig({
     tailwindcss(),
     react()
   ],
+  base:'/currency-convert-react/',
 })
